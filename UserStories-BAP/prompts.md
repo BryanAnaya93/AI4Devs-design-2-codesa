@@ -662,10 +662,11 @@ Esta priorización optimiza la entrega de valor y asegura una implementación **
 ✅ Consideración de riesgos técnicos y dependencias.
 ✅ Plan de implementación basado en trimestres.
 
-## Conclusiones Personales
+# Conclusiones Personales
 
-* 
-* 
+* La IA es una gran ayuda, ya que te gracias a su base de conocimiento, puede agilizar y simplificar procesos brindando no solo un resultado que sirve como una base sino una clara sustentación del porque del resultado aportando a la toma de desiciones. 
+* La IA pude generar recomendaciones de metodologías, y proponiendo creterios importantes, en el caso puntual del ejercicio, me brindo un prompt donde se tienen aspectos importantes para la correcta valoriación aun usando una metodologia que no conozco.
+* Es interesante ver como usando 2 metologias diferentes, para el ejercicio se llego al mismo resultado de priorización, en mi caso, analice las HU y llegue a la misma conclusión, salvo por el filtrado de CVS el cual era media pero la IA la clasifico como alta. 
 
 ---
 
