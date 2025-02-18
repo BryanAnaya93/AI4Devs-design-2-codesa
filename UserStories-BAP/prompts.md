@@ -1,7 +1,7 @@
 # LLM: Chat GPT
 ---
 
-## Pregunta
+# Prompt 1
 
 Hola, Anteriormente estuvimos trabando en el diseño de un ATS para la empresa LTI, adjunto un archivo donde se resume el proyecto, puedes confirmarme si puedes recuperar el contexto o si requieres mayor información.
 
@@ -17,7 +17,7 @@ Descripción general del software y sus ventajas competitivas.
 - Diagramas en PlantUML y Mermaid para visualización de componentes y procesos.
 Si necesitas que extraiga información específica o genere documentación adicional, dime qué necesitas y con gusto lo haré. 🚀
 
-## Pregunta
+# Prompt 2
 
 Perfecto, quiero que te comportes como un experto en product owner con amplia experiencia en levantamiento de requerimientos y definición de historias de usuario y me ayudes con las siguientes tareas:
 
@@ -146,7 +146,7 @@ Estas historias de usuario cubren las funcionalidades clave del **ATS de LTI**, 
 * Se estableció una Definición de Hecho (DoD) clara para asegurar calidad.
 * El formato está listo para ser subido a Git y utilizado por el equipo de desarrollo.
 
-## Pregunta
+# Prompt 3
 
 Crees que puedes pulirlas un poco más, ampliando un poco los criterios de aceptación.
 
@@ -278,7 +278,7 @@ Estas historias de usuario aseguran que el **ATS de LTI** ofrezca un proceso de 
 
 --- 
 
-## Pregunta
+# Prompt 4
 
 Analiza las funcionalidades planteadas en las historias de usuario evalúa posibles problemas que puedan presentarse a los usuarios, con esta información, para cada una de las HU, genera una sesión de "Notas adicionales" donde incluyas los posibles problemas identificados y algunas recomendaciones a tener en cuenta
 
@@ -419,7 +419,8 @@ Estas historias de usuario han sido mejoradas con un análisis de riesgos y reco
 
 # LLM: Claude
 
-## Pregunta 
+# Prompt 5
+
 "Como ingeniero experto en prompts, quiero que generes uno que me permita hacer lo siguiente:
 
 priorizándolas las historias de usuario de un backlog.
@@ -450,7 +451,7 @@ Genera una tabla markdown que incluya:
 
 # LLM: Chat GPT
 
-## Pregunta:
+# Prompt 6
 
 Actúa como un Product Owner experto. Analiza y prioriza el conjunto de historias de usuario utilizando la metodología RICE:
 
@@ -555,7 +556,7 @@ Esta priorización **optimiza la entrega de valor**, asegurando que el **ATS de 
 ✅ Ordenado por prioridad real de implementación.
 ✅ Justificación clara de cada nivel de prioridad.
 
-## Pregunta:
+# Prompt 7
 
 Perfecto, ahora probemos con algo diferente. Asume el rol de un Analista de Negocio con experiencia en priorización ágil. Evalúa las historias de usuario usando el método MoSCoW combinado con valor de negocio:
 
@@ -672,7 +673,7 @@ Esta priorización optimiza la entrega de valor y asegura una implementación **
 
 # LLM Claude
 
-## Pregunta:
+# Prompt 8
 
 Actua como un ingeniero de prompts. Genera un prompt que me permita genera los Tickets de trabajo apartir de una historia de usuario, obteniendo los detalles técnicos como si de un grupo de desarrolladores full stack trabjaran en la definición de las tareas.
 
@@ -719,12 +720,9 @@ Adicionalmente, incluye:
 
 # LLM ChatGPT:
 
-## Preguunta
+# Prompt 9
 
 Actúa como un equipo de desarrollo full stack con experiencia en arquitectura de software, frontend, backend, QA y DevOps. Analiza historia de usuario "Programación Automática de Entrevistas" y desglósala en tickets técnicos de trabajo: 
-
-
-
 
 Para cada ticket, proporciona:
 
